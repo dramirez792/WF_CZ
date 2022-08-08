@@ -75,3 +75,4 @@ bluediamondalmonds.co.il
 bluediamondalmonds.ae
 bluediamondalmonds.qa
 inference.location.live.net
+js.arcgis.com

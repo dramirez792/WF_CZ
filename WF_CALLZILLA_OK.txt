@@ -426,3 +426,13 @@ emprising.com
 invite.emprising.com
 cdn.ipaper.io
 embeds.ipaper.io
+avatax.avalara.net
+avalara.net
+avatax.com
+rest.avatax.com
+development.avalara.net
+sandbox-rest.avatax.com
+api-production.classification.avalara.net
+api-sandbox.classification.avalara.net
+quoting.classification.avalara.net
+quoting-sandbox.classification.avalara.net

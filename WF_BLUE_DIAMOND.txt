@@ -76,3 +76,4 @@ bluediamondalmonds.ae
 bluediamondalmonds.qa
 inference.location.live.net
 js.arcgis.com
+a40.usablenet.com

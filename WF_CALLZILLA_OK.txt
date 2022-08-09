@@ -214,7 +214,6 @@ static.hotjar.com
 support.anydesk.com
 survey.survicate.com
 sync.technoratimedia.com
-t.co
 t.paypal.com
 tags.tiqcdn.com
 tap.walmart.com

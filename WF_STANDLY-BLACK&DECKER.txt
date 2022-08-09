@@ -124,7 +124,6 @@ stags.bluekai.com
 stanleybdgtsna.us-4.evergage.com
 stanleyblackanddecker.zoom.us
 static-data2.manualslib.com
-static.ads-twitter.com
 static.manualslib.com
 stats.g.doubleclick.net
 support.stanleytools.com

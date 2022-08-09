@@ -190,7 +190,6 @@ zoro.com
 173e2548.akstat.io
 8037506.fls.doubleclick.net
 9631122.fls.doubleclick.net
-analytics.twitter.com
 api.prod.zoro.com
 api.securedvisit.com
 c.clicktale.net

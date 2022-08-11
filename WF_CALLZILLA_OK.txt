@@ -435,3 +435,4 @@ api-production.classification.avalara.net
 api-sandbox.classification.avalara.net
 quoting.classification.avalara.net
 quoting-sandbox.classification.avalara.net
+seller.walmart.com

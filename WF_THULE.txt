@@ -57,6 +57,7 @@ tiles.mapbox.com
 mapbox.com
 api.tiles.mapbox.com
 thuleab--c.documentforce.com
+static.lightning.force.com
 c.la3-c2-fra.salesforceliveagent.com
 thulena00d09000004uxhe.my.connect.aws
 thuleab.my.salesforce.com

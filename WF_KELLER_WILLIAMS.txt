@@ -24,7 +24,7 @@ kwri-jira.kw.com
 kwri.zendesk.com
 kwri.pingboard.com
 pingboard.com
-loom.com
+
 mcasupport.kw.com
 mykw.kw.com
 adobeindd.com

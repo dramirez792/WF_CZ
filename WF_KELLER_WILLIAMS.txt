@@ -24,7 +24,9 @@ kwri-jira.kw.com
 kwri.zendesk.com
 kwri.pingboard.com
 pingboard.com
-
+screencast-o-matic.com
+awesomescreenshot.com
+#loom.com
 mcasupport.kw.com
 mykw.kw.com
 adobeindd.com

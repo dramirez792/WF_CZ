@@ -442,3 +442,7 @@ servicetitan.com
 next.servicetitan.com
 help.servicetitan.com
 academy.servicetitan.com
+id.servicetitan.com
+servicetitan.myabsorb.com
+myabsorb.com
+

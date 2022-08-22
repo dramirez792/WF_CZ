@@ -67,3 +67,7 @@ pstmn.io
 skills-assets.pstmn.io
 sentry-app.postmanlabs.com
 postmanlabs.com
+
+screencast-o-matic.com
+awesomescreenshot.com
+loom.com

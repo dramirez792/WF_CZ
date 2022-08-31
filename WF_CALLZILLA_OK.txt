@@ -445,8 +445,10 @@ academy.servicetitan.com
 id.servicetitan.com
 servicetitan.myabsorb.com
 myabsorb.com
+getanewappliance.com
 stats.pusher.com
 aefd.nelreports.net
 conectados.avianca.com
 interrapidisimo.com
 avianca.com
+d12mivgeuoigbq.cloudfront.net

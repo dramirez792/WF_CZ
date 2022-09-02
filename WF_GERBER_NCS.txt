@@ -116,3 +116,5 @@ oath.okta.com
 ok4static.oktacdn.com
 api-vo.jitsi.net
 jitsi.net
+api.global.chalet.8x8.com
+api.us-east.chalet.8x8.com

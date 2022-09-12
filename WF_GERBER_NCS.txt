@@ -120,3 +120,4 @@ api.global.chalet.8x8.com
 api.us-east.chalet.8x8.com
 bugsnag.8x8.com
 api.us-east.chalet.8x8.com
+cloud8.8x8.com

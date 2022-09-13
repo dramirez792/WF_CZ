@@ -452,3 +452,6 @@ conectados.avianca.com
 interrapidisimo.com
 avianca.com
 d12mivgeuoigbq.cloudfront.net
+app.periplia.com
+periplia.com
+cdn.periplia.com

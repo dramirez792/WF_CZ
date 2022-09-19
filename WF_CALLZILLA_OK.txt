@@ -492,3 +492,5 @@ cacerts.thawte.com
 ocsp.digicert.com
 crl3.digicert.com
 formulario.sire.gov.co
+login.account.wal-mart.com
+wal-mart.com

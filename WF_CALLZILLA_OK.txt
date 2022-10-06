@@ -502,3 +502,4 @@ auth0.com
 config.wwex.auth0.com
 garticphone.com
 skribbl.io
+braintreegateway.com

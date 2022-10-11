@@ -71,3 +71,7 @@ postmanlabs.com
 screencast-o-matic.com
 awesomescreenshot.com
 loom.com
+
+rum.browser-intake-datadoghq.com
+browser-intake-datadoghq.com
+atadoghq.com

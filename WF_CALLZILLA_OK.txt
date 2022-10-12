@@ -503,3 +503,4 @@ config.wwex.auth0.com
 garticphone.com
 skribbl.io
 braintreegateway.com
+csm.da.us.criteo.net

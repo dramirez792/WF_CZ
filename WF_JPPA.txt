@@ -117,3 +117,4 @@ dis.criteo.com
 mug.criteo.com
 gum.criteo.com
 googleadservices.com
+10.28.0.27

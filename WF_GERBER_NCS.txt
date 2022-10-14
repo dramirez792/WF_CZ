@@ -119,4 +119,5 @@ jitsi.net
 api.global.chalet.8x8.com
 api.us-east.chalet.8x8.com
 bugsnag.8x8.com
-
+analytics.8x8.com
+rsms.me

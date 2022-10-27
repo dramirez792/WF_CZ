@@ -504,3 +504,17 @@ garticphone.com
 skribbl.io
 braintreegateway.com
 csm.da.us.criteo.net
+sbxsns.tejassoftware.com
+production-us-sands.demandware.net
+staging-us-sands.demandware.net
+sbxsns.tejassoftware.com
+shop.pimsleur.com
+subscription.pimsleur.com
+accounts.pimsleur.com
+learn.pimsleur.com
+portal.pimsleur.com
+pimsleur.subconadmin.com
+subconadmin.com
+pimsleur.com
+tejassoftware.com
+demandware.net

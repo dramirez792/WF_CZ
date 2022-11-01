@@ -519,3 +519,4 @@ pimsleur.com
 tejassoftware.com
 demandware.net
 privacy.paramount.com
+ok3static.oktacdn.com

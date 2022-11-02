@@ -522,3 +522,6 @@ privacy.paramount.com
 ok3static.oktacdn.com
 privacyportal-cdn.onetrust.com
 production-cmp.isgprivacy.cbsi.com
+cdn.freshmarketer.com
+dashboard.instabug.com
+instabug.com

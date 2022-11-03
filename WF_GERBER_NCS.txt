@@ -123,3 +123,8 @@ analytics.8x8.com
 rsms.me
 boydgroup.com
 sts.boydgroup.com
+play.vidyard.com
+vidyard.com
+cdn-ukwest.onetrust.com
+onetrust.com
+

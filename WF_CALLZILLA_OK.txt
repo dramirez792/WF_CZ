@@ -534,3 +534,5 @@ d28hgpri8am2if.cloudfront.net
 d1hbl61hovme3a.cloudfront.net
 autodiscover.simonandschuster.com
 ipcom-callzilla-sip.gocontact.com
+ipcom-callzilla.gocontact.com
+

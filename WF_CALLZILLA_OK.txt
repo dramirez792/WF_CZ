@@ -527,3 +527,9 @@ dashboard.instabug.com
 instabug.com
 lencr.org
 letsencrypt.org
+simonandschuster.com
+share.simonandschuster.com
+d1dyndsnc54cq8.cloudfront.net
+d28hgpri8am2if.cloudfront.net
+d1hbl61hovme3a.cloudfront.net
+autodiscover.simonandschuster.com

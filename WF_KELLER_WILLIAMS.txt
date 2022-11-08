@@ -75,3 +75,8 @@ loom.com
 rum.browser-intake-datadoghq.com
 browser-intake-datadoghq.com
 atadoghq.com
+
+crm.zoho.com
+api.desygner.com
+static.inkive.com
+forms.zoho.com

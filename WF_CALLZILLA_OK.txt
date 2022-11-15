@@ -538,3 +538,5 @@ ipcom-callzilla.gocontact.com
 demandware.com
 account.demandware.com
 mexico.newark.com
+pimsleurpremiumteam.atlassian.net
+atlassian.net

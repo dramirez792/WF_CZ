@@ -544,3 +544,4 @@ jira-frontend-static.prod.public.atl-paas.net
 public.atl-paas.net
 atl-paas.net
 ultraotp.com
+docs.instabug.com

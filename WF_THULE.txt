@@ -81,3 +81,5 @@ otp.ee
 sunet.se
 cloudflareinsights.com
 discovery.cem.cloud.us
+mingle-portal.eu1.inforcloudsuite.com
+inforcloudsuite.com

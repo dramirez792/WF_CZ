@@ -547,4 +547,3 @@ ultraotp.com
 docs.instabug.com
 novasoft.net.co
 sns.tejassoftware.com
-api.powerbi.com

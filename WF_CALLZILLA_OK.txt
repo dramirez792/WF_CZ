@@ -545,3 +545,5 @@ public.atl-paas.net
 atl-paas.net
 ultraotp.com
 docs.instabug.com
+novasoft.net.co
+sns.tejassoftware.com

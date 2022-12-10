@@ -85,3 +85,6 @@ us-east-1.awstrack.me
 content.astuteknowledge.com
 astuteknowledge.com
 realtime.astutebot.com
+emplifi.io
+app.emplifisocial.com
+emplifisocial.com

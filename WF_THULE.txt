@@ -87,3 +87,8 @@ js.afterpay.com
 yggdrasil.inforcloudservices.com
 a.b.cdn.console.awsstatic.com
 germanywestcentral-0.in.applicationinsights.azure.com
+m3prdeuc1.m3.eu1.inforcloudsuite.com 
+elavon.com
+cenpos.com
+
+

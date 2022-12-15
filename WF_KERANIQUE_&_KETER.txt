@@ -79,5 +79,10 @@ wayfair.com
 maps.a.forceusercontent.com
 location.force.com
 
-#RIDECIRCUIT_Y_AMPLITY_HEALTH
+#RIDECIRCUIT
+rider.tfrholdingscorp.com
+decide.mixpanel.com
+ridecircuit.com
+circuit-website-maps.s3.amazonaws.com
+
 

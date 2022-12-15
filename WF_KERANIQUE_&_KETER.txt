@@ -86,3 +86,13 @@ ridecircuit.com
 circuit-website-maps.s3.amazonaws.com
 admin.tfrholdingscorp.com
 tfrholdingscorp.com
+
+#AMPLITY_HEALTH
+intranet.amplity.com
+amplity.com
+myworkday.com
+bit.amplity.com
+mypyricon.com
+gorillaexpense.info
+amplity.freshservice.com
+helpdesk.amplity.com

@@ -548,3 +548,4 @@ docs.instabug.com
 novasoft.net.co
 sns.tejassoftware.com
 ssdigital.basecamphq.com
+app.diagrams.net

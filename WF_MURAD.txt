@@ -316,3 +316,4 @@ mboxedge35.tt.omtrdc.net
 loyalty.yotpo.com
 api.fullcontact.com
 swymstore-v3premium-01.swymrelay.com
+c2001.report.gbss.io

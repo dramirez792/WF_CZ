@@ -309,3 +309,10 @@ gethumankind.com
 sd7sf8u3fj.execute-api.us-west-1.amazonaws.com
 execute-api.us-west-1.amazonaws.com
 img1.wsimg.com
+cdn.gbqofs.com
+visitor-service.tealiumiq.com
+collect.tealiumiq.com
+mboxedge35.tt.omtrdc.net
+loyalty.yotpo.com
+api.fullcontact.com
+swymstore-v3premium-01.swymrelay.com

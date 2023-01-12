@@ -80,3 +80,6 @@ crm.zoho.com
 api.desygner.com
 static.inkive.com
 forms.zoho.com
+
+app.sana.com
+sana.com

@@ -111,7 +111,6 @@ assets6.freshservice.com
 assets7.freshservice.com
 assets8.freshservice.com
 assets9.freshservice.com
-assets1.freshservice.com
 assets10.freshservice.com
 assets17.freshservice.com
 amplity.attachments.freshservice.com
@@ -126,4 +125,12 @@ widget.freshworks.com
 central.freshworksapi.com
 cdn.inlinemanual.com
 marketplace-us.freshworks.com
+freshworks.com
+freshdev.io
 cdn.freshdev.io
+freshservice.com
+rts-us-fcht.freshworksapi.com
+freshworksapi.com
+rts-us-fid.freshworksapi.com
+analytics.inlinemanual.com
+iris.freshworksapi.com

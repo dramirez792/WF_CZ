@@ -134,3 +134,4 @@ freshworksapi.com
 rts-us-fid.freshworksapi.com
 analytics.inlinemanual.com
 iris.freshworksapi.com
+static.freshreports.com

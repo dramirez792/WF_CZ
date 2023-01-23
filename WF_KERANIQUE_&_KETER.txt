@@ -143,3 +143,4 @@ cdn.announcekit.app
 cdn.howtomoodle.com
 piwik.howtomoodle.com
 howtomoodle.com
+auth.kandji.io

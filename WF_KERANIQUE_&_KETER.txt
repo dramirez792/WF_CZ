@@ -135,3 +135,6 @@ rts-us-fid.freshworksapi.com
 analytics.inlinemanual.com
 iris.freshworksapi.com
 static.freshreports.com
+6144188923908.webpush.freshchat.com
+freshchat.com
+webpush.freshchat.com

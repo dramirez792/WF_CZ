@@ -140,3 +140,6 @@ freshchat.com
 webpush.freshchat.com
 app.inlinemanual.com
 cdn.announcekit.app
+cdn.howtomoodle.com
+piwik.howtomoodle.com
+howtomoodle.com

@@ -117,3 +117,13 @@ assets17.freshservice.com
 amplity.attachments.freshservice.com
 static.freshdev.io
 fe-perf-assets.freshworks.com
+rum.haystack.es
+freshservice-us.freshreports.com
+rts-static-prod.freshworksapi.com
+accounts.freshworks.com
+wchat.freshchat.com
+widget.freshworks.com
+central.freshworksapi.com
+cdn.inlinemanual.com
+marketplace-us.freshworks.com
+cdn.freshdev.io

@@ -98,3 +98,6 @@ amplity.freshservice.com
 helpdesk.amplity.com
 incontact.amplity.com
 incontact.incontact.com
+login.mimecast.com
+kandji.io
+amplityhealth.kandji.io

@@ -138,3 +138,5 @@ static.freshreports.com
 6144188923908.webpush.freshchat.com
 freshchat.com
 webpush.freshchat.com
+app.inlinemanual.com
+cdn.announcekit.app

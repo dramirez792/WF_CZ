@@ -111,6 +111,7 @@ assets6.freshservice.com
 assets7.freshservice.com
 assets8.freshservice.com
 assets9.freshservice.com
+assets10.freshservice.com
 assets17.freshservice.com
 amplity.attachments.freshservice.com
 static.freshdev.io

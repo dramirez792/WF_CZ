@@ -54,3 +54,7 @@ dashboard.inplayer.com
 inplayer.com
 cdn.jwplayer.com
 cdn.usefathom.com
+ipv4.icanhazip.com
+ifconfig.co
+api.ipify.org
+

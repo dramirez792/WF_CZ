@@ -50,3 +50,5 @@ us-static.beinstatic.com
 wmg.helpspot.com
 static.eu.zuora.com
 eu.zuora.com
+dashboard.inplayer.com
+inplayer.com

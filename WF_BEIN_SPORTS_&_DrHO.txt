@@ -52,3 +52,5 @@ static.eu.zuora.com
 eu.zuora.com
 dashboard.inplayer.com
 inplayer.com
+cdn.jwplayer.com
+cdn.usefathom.com

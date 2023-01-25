@@ -95,3 +95,4 @@ b.onlinewebfonts.com
 zegsu.com
 static.zegsu.com
 kwri.app.link
+embed.ustudio.com

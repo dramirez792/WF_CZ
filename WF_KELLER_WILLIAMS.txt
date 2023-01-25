@@ -97,3 +97,6 @@ static.zegsu.com
 kwri.app.link
 embed.ustudio.com
 outfront.kw.com
+pdirect.realnex.com
+realnex.com
+communities.kw.com

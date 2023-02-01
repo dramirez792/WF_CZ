@@ -144,3 +144,17 @@ cdn.howtomoodle.com
 piwik.howtomoodle.com
 howtomoodle.com
 auth.kandji.io
+us-1.admin.mimecast.com
+uk-1.admin.mimecast.com
+mimecast.my.salesforce.com
+community.mimecast.com
+eu-api.mimecast.com
+api.uk-1.a.mimecastprotect.com
+api.mimecast.com
+ca-api.mimecast.com
+mimecastprotect.com
+za-api.mimecast.com
+us-api.mimecast.com
+jer-api.mimecast.com
+login-us.mimecast.com
+static.srcspot.com

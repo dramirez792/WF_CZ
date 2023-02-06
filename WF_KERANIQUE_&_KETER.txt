@@ -158,3 +158,11 @@ us-api.mimecast.com
 jer-api.mimecast.com
 login-us.mimecast.com
 static.srcspot.com
+home-c4.incontact.com
+bzib.nelreports.net
+edge-admin.us-east-1.freshedge.net
+freshedge.net
+login.teamviewer.com
+api-tvclient-sc1.azurewebsites.net
+rum.browser-intake-datadoghq.com
+statics-marketingsites-eus-ms-com.akamaized.net

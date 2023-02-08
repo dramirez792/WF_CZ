@@ -118,3 +118,7 @@ mug.criteo.com
 gum.criteo.com
 googleadservices.com
 10.28.0.27
+10.28.0.27:9091
+10.28.0.27:9091/console
+ordermanager.test.parkseed.com
+selfservice.test.parkseed.com

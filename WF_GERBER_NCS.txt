@@ -128,4 +128,19 @@ vidyard.com
 cdn-ukwest.onetrust.com
 onetrust.com
 support.8x8.com
+cloud8-cf.8x8.com
+lm.911.west.com
+lis.911.intrado.com
+vcc-sip-sk1.8x8.com
+vcc-ftps-ca1.8x8.com
+vcc-ftps-uk2.8x8.com
+vcc-sip-uk2.8x8.com
+vcc-ftps-uk3.8x8.com
+vcc-sip-uk3.8x8.com
+vcc-ftps-hk1.8x8.com 
+vcc-sip-sy1.8x8.com
+vcc-ftps-sy1.8x8.com
+ftps.on.odcc.bell.ca
+odcc-sip-on1.bell.ca
+gravatar.com
 

@@ -568,3 +568,4 @@ find-y.userpilot.io
 find-z.userpilot.io
 find-w.userpilot.io
 userpilot.io
+academico.ucompensar.edu.co

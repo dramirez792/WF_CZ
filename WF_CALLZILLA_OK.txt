@@ -562,4 +562,8 @@ find.userpilot.io
 userpilot.io
 nice.com
 protect-us.mimecast.com
-
+find-x.userpilot.io
+find.userpilot.io
+find-y.userpilot.io
+find-z.userpilot.io
+find-w.userpilot.io

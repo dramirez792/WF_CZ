@@ -144,3 +144,11 @@ ftps.on.odcc.bell.ca
 odcc-sip-on1.bell.ca
 gravatar.com
 wownet.boydgroup.com
+sso-c26bda79.sso.duosecurity.com
+sso.duosecurity.com
+duosecurity.com
+us.azureauth.duosecurity.com
+ew2.azureauth.duosecurity.com
+ew1.azureauth.duosecurity.com
+eu-west.azureauth.duosecurity.com
+cc1.azureauth.duosecurity.com

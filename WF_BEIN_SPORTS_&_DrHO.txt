@@ -58,3 +58,5 @@ ipv4.icanhazip.com
 ifconfig.co
 api.ipify.org
 assets-jpcust.jwpsrv.com
+connect-us.beinsports.com
+connect-ca.beinsports.com

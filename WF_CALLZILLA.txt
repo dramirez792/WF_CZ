@@ -2586,5 +2586,7 @@ land.com
 redfin.com
 ssl.cdn-redfin.com
 listhub.com
-
-
+metrocuadrado.com
+puntopropiedad.com
+elcorral.com
+pideenlinea.elcorral.com

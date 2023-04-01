@@ -222,7 +222,6 @@ api.usw2.pure.cloud
 app.14team.com
 app.getbeamer.com
 app.grammarly.com
-app.powerbi.com
 novacloud.com.co
 aapp01.novacloud.com.co
 app01.enterdev.co
@@ -365,7 +364,6 @@ okta.com
 payments.vantivcnp.com
 paypal.com
 paypalobjects.com
-pbivisuals.powerbi.com
 prowritingaid.com
 purl.com
 quickstream.westpac.com.au
@@ -2590,3 +2588,8 @@ metrocuadrado.com
 puntopropiedad.com
 elcorral.com
 pideenlinea.elcorral.com
+dash.api-4.rideco.com
+book.iride.rideco.com
+rideco.com
+lyft.com
+d3e54v103j8qbb.cloudfront.net

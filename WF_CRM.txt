@@ -204,3 +204,8 @@ c.la3-c2-fra.salesforceliveagent.com
 thuleab.my.salesforce.com
 d.la3-c2-fra.salesforceliveagent.com
 vimeo.zendesk.com
+assets-global.website-files.com
+web-static.textnow.com
+textnow.com
+help.textnow.com
+iridehelp.zendesk.com

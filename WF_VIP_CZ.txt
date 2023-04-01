@@ -50,3 +50,5 @@ icons8.com
 prezicdn.net
 unsplash.com
 braze.com
+platzi.com
+edx.org

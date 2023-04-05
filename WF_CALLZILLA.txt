@@ -2599,3 +2599,5 @@ muradcloud.sharepoint.com
 commerce.spscommerce.com
 spscommerce.com
 truecommerce.com
+view-na-msc.mysupplychain.dhl.com
+dhlmysupplychaindev.112.2o7.net

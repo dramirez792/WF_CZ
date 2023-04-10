@@ -52,3 +52,5 @@ unsplash.com
 braze.com
 platzi.com
 edx.org
+resources.workable.com
+workable.com

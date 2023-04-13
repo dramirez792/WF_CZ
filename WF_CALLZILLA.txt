@@ -2601,3 +2601,7 @@ spscommerce.com
 truecommerce.com
 view-na-msc.mysupplychain.dhl.com
 dhlmysupplychaindev.112.2o7.net
+storage.sg.talkpush.com
+nuevaeps.com.co
+portal.nuevaeps.com.co
+murad-b2b-portal.bizdata360.com

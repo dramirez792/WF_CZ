@@ -2605,3 +2605,5 @@ storage.sg.talkpush.com
 nuevaeps.com.co
 portal.nuevaeps.com.co
 murad-b2b-portal.bizdata360.com
+docebosaas.com
+sbdacademy.docebosaas.com

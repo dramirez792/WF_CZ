@@ -54,3 +54,6 @@ platzi.com
 edx.org
 resources.workable.com
 workable.com
+storagezoneazure.falabella.com
+falabella.com
+

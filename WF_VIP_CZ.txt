@@ -56,4 +56,9 @@ resources.workable.com
 workable.com
 storagezoneazure.falabella.com
 falabella.com
+app.pandape.com
+pandape.com
+app.sherlockhr.com
+sherlockhr.com
+
 

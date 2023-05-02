@@ -60,5 +60,11 @@ app.pandape.com
 pandape.com
 app.sherlockhr.com
 sherlockhr.com
+static.licdn.com
+licdn.com
+ponf.linkedin.com
+lnkd.demdex.net
+media.licdn.com
+account.linkedin.com
 
 

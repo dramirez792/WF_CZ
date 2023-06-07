@@ -209,3 +209,9 @@ web-static.textnow.com
 textnow.com
 help.textnow.com
 iridehelp.zendesk.com
+dixa.com
+o46187.ingest.sentry.io
+accounts.dixa.com
+cdn.marketing.dixa.com
+scale.dixa.com
+

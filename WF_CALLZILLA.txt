@@ -2652,6 +2652,9 @@ bancolombia.com.co
 novasoft.com.co
 sena.edu.co
 sura.com.co
+5.188.120.14
+5.188.120.13
+209.53.113.223
 
 
 

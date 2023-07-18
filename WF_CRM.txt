@@ -214,4 +214,11 @@ o46187.ingest.sentry.io
 accounts.dixa.com
 cdn.marketing.dixa.com
 scale.dixa.com
+wbx.com
+wbx2.com
+webexcontent.com
+gdig2s1-5451.crl
+apps.broadcloudpbx.net
+msftncsi.com
+
 

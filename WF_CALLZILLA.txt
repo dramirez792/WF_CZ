@@ -2655,6 +2655,8 @@ sura.com.co
 5.188.120.14
 5.188.120.13
 209.53.113.223
+app.cloud.scorm.com
+app.trainualapp.com
 
 
 

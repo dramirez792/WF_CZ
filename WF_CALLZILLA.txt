@@ -2660,5 +2660,6 @@ app.trainualapp.com
 redshift-freshpet.cksnzjwg8bps.us-east-1.redshift.amazonaws.com
 us3.calabriocloud.com
 calabriocloud.com
-
+fusionconnect.com
+developer.paypal.com
 

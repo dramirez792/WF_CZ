@@ -2677,3 +2677,5 @@ cdn.smooch.io
 nbcuni.com
 thoughtworks.com
 quillbot.com
+gorgias.com
+tools.refokus.com

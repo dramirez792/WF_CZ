@@ -2665,3 +2665,4 @@ tools.refokus.com
 sso.godaddy.com
 is3p.hallmark.com
 anatolia.com
+admin.shopify.com

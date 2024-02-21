@@ -2666,3 +2666,6 @@ sso.godaddy.com
 is3p.hallmark.com
 anatolia.com
 admin.shopify.com
+clientes.colmedicos.com
+w3.colmedicos.com
+colmedicos.com

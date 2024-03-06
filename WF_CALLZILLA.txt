@@ -2669,3 +2669,11 @@ admin.shopify.com
 clientes.colmedicos.com
 w3.colmedicos.com
 colmedicos.com
+craftsman-us-prod.myshopify.com
+pfizer.com
+pfizerdigital.com
+intranet.vcloud.com
+vcloud.com
+remotedesktop.com
+install.remotepc.vcloudbot.com
+vcloudbot.com

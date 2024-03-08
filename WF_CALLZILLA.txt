@@ -2677,3 +2677,13 @@ vcloud.com
 remotedesktop.com
 install.remotepc.vcloudbot.com
 vcloudbot.com
+goodaccess.com
+app.goodaccess.com
+goodaccess.webflow.io
+sign.goodaccess.com
+samohyb.goodaccess.com
+lp.goodaccess.com
+partner.goodaccess.com
+support.goodaccess.com
+goodaccess.navattic.com
+navattic.com

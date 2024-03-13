@@ -2692,3 +2692,5 @@ voccs-dot-vci-staging.uw.r.appspot.com
 appspot.com
 voccs.vcloud.com
 remotepc.com
+us-la-coresite-cloud1.gocontact.com
+broadvoice-jira.atlassian.net

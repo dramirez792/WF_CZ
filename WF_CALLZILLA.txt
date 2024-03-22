@@ -2694,3 +2694,6 @@ voccs.vcloud.com
 remotepc.com
 us-la-coresite-cloud1.gocontact.com
 broadvoice-jira.atlassian.net
+usc.edu.co
+barclayproducts.com
+app.box.com

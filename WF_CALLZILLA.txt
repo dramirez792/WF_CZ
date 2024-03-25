@@ -2697,3 +2697,10 @@ broadvoice-jira.atlassian.net
 usc.edu.co
 barclayproducts.com
 app.box.com
+pfizer-pforcerx-amer.lightning.force.com
+escalation-systems-dot-vci-live.uc.r.appspot.com
+pfizermedinfo.com.ar
+sisa.msal.gov.ar
+cedulaprofesional.sep.gob.mx
+portalpfizer.com.ar
+pfizerpro.com.mx

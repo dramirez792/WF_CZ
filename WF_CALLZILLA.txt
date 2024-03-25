@@ -2704,3 +2704,7 @@ sisa.msal.gov.ar
 cedulaprofesional.sep.gob.mx
 portalpfizer.com.ar
 pfizerpro.com.mx
+app.krisp.ai
+krispai.zendesk.com
+api.krisp.ai
+embed.launchnotes.io

@@ -2712,3 +2712,17 @@ avsep.com
 d-9067AF704F.avsep.com
 railtedpregeressiweunionmattereskal53908438.avsep.com
 login.barracudanetworks.com
+auth.barracudanetworks.com
+status.barracudanetworks.com
+barracudanetworks.com
+pmerac.prod.murad.oraclevcn.com
+tlvapp1v.murad.com
+ascpdev01.murad.com
+tapp4.murad.com
+pmeapp1.murad.com
+pmeapp.prod.murad.oraclevcn.com 
+biprod.murad.com 
+biprod.prod.murad.oraclevcn.com
+
+
+

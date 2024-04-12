@@ -2723,6 +2723,11 @@ pmeapp1.murad.com
 pmeapp.prod.murad.oraclevcn.com 
 biprod.murad.com 
 biprod.prod.murad.oraclevcn.com
-
+hardwareresources.com
+mintrabajo.gov.co
+tramites.mintrabajo.gov.co
+x.chip.de
+chip.de
+gotomaxx.com
 
 

@@ -66,6 +66,8 @@ media.licdn.com
 account.linkedin.com
 facturacion.tostao.com
 tostao.com
-
+s.udemycdn.com
+udemy.com
+frontends.udemycdn.com
 
 

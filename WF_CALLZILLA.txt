@@ -2733,3 +2733,4 @@ awaken.io
 usapi.awaken.io
 kwri.zoom.us
 dashboard.rise-ai.com
+golpredictor.com

@@ -2734,3 +2734,5 @@ usapi.awaken.io
 kwri.zoom.us
 dashboard.rise-ai.com
 comfacor.com.co
+manage.promotionpod.com
+promotionpod.com

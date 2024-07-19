@@ -2738,3 +2738,5 @@ manage.promotionpod.com
 promotionpod.com
 boot.net.anydesk.com
 confactor.com
+auth.seismic.com
+seismic.com

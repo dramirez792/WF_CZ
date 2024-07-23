@@ -2740,3 +2740,5 @@ boot.net.anydesk.com
 confactor.com
 auth.seismic.com
 seismic.com
+crayola.app.emplifi.io
+app.emplifi.io

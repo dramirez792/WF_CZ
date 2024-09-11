@@ -69,5 +69,6 @@ tostao.com
 s.udemycdn.com
 udemy.com
 frontends.udemycdn.com
-
+caracoltv.com
+noticiascaracol.com
 

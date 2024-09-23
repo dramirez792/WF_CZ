@@ -2725,9 +2725,6 @@ biprod.prod.murad.oraclevcn.com
 hardwareresources.com
 mintrabajo.gov.co
 tramites.mintrabajo.gov.co
-x.chip.de
-chip.de
-gotomaxx.com
 us-conversations.awaken.io
 awaken.io
 usapi.awaken.io
@@ -2749,3 +2746,4 @@ klausapp.com
 imageskincare.com
 litorders.com
 beautyinsuranceplus.com
+ad360.parkseed.com

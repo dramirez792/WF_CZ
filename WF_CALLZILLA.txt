@@ -2750,3 +2750,5 @@ ad360.parkseed.com
 npiregistry.cms.hhs.gov
 cms.hhs.gov
 cms.gov
+dashboard.stripe.com
+stripe.com

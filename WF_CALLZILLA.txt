@@ -1914,7 +1914,6 @@ scout-cdn.salesloft.com
 salesloft.com
 articulateusercontent.com
 manualzz.com
-mc.yandex.ru
 static.cloudflareinsights.com
 manualsfile.com
 pagead2.googlesyndication.com

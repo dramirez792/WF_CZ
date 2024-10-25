@@ -2751,3 +2751,4 @@ cms.hhs.gov
 cms.gov
 dashboard.stripe.com
 stripe.com
+login.yotpo.com

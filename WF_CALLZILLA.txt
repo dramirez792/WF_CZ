@@ -2752,3 +2752,5 @@ cms.gov
 dashboard.stripe.com
 stripe.com
 login.yotpo.com
+luxbp.com
+seller-us.tiktok.com

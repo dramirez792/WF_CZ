@@ -2754,3 +2754,4 @@ stripe.com
 login.yotpo.com
 luxbp.com
 seller-us.tiktok.com
+edu.randco.com
